@@ -1,4 +1,4 @@
-# Hi, I'm Roba 👋
+# Selam, My Name Is Roba 👋
 
 I build things at the intersection of **mobile apps** and **AI**.
 Currently focused on Python + Flutter — building intelligent apps that
